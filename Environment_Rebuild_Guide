@@ -1,0 +1,52 @@
+# Environment Rebuild Guide
+
+## 1. Identity Reset
+- New Apple ID  
+- New email  
+- 2FA enabled  
+- All Google accounts removed  
+- All apps migrated from Gmail → Apple  
+
+## 2. Network Reset
+- New router  
+- New SSID  
+- New Wi‑Fi password  
+- Remote management disabled  
+- Clean DNS (ISP or Cloudflare)  
+- Tailscale installed for secure mesh networking  
+
+## 3. Device Reset
+- Factory reset  
+- New Apple ID  
+- New Wi‑Fi  
+- No restored backups  
+- Minimal apps installed  
+- Permissions locked down  
+
+## 4. Safe Data Migration
+Only migrate:
+- photos  
+- videos  
+- documents  
+- screenshots  
+- logs  
+
+## 5. Retire Compromised Devices
+- Motorola Edge 50 offline  
+- Old Androids offline  
+- Old router offline  
+
+## 6. App Reintroduction
+Installed apps:
+- App Privacy Report Analyzer  
+- Tailscale  
+- Custom Shortcuts for live analytics  
+- Banking apps  
+- Messaging apps  
+- Social apps  
+
+Avoid:
+- trading apps  
+- offshore brokers  
+- “signals” apps  
+- anything tied to iFX / NEXTART  
