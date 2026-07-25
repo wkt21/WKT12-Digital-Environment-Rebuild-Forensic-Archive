@@ -1,5 +1,8 @@
 # WKT12 Digital Environment Rebuild & Forensic Archive
 
+<img width="1536" height="1024" alt="1163B9F3-8D07-4E18-A811-11C06499EFEC" src="https://github.com/user-attachments/assets/fc7ad71f-58a7-4cdc-903d-aca8a9e165c3" />
+
+
 > A DFIR-grade reconstruction of a compromised digital ecosystem and its clean rebuild.  
 > Authored by **Frank C. Francis** — Founder of WKT12.tech
 
